@@ -1,0 +1,39 @@
+header {
+    background-color: whitesmoke;
+    width: 80%;
+    margin: auto;
+    min-height: 200px;
+
+}
+.navbar{
+    display: inline block;
+    background-color: #333;
+    border-bottom: 2px solid #444;
+    box-shadow: 2px 4px rgb(0, 0, 0, 0.1);
+    height: 50px;
+    line-height: 50px;
+    padding: 0px;
+
+}
+.navbar div{
+
+    color: white;
+    display: inline ;
+    padding: 24px;
+}
+
+
+
+.main-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 20px;
+    
+
+}
+
+.sub-title {
+    font-size: 20px;
+    color: #666;
+    padding: 20px;
+}
